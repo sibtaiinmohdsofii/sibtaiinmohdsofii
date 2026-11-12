@@ -1,4 +1,4 @@
-<div align="center">
+div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=190&section=header&text=Sibtain%20Mohammad%20Sofi&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Learner%20%7C%20BCA%20Student&descAlignY=60&descSize=16" alt="Sibtain Mohammad Sofi profile banner" />
 
